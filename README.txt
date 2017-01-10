@@ -1,5 +1,3 @@
-In this project, you'll be writing a short program that checks a block of text for your name.
+In this project, i'll be writing a short program that checks a block of text for my name name.
 
-Specifically, it will check the text for the first letter of your name, then push (add) the number of characters equal to your name's length to an array. By inspecting the array, you'll be able to see if your name was mentioned!
-
-Once you've got the hang of loops, arrays, and if statements, we'll talk about ways this project could be improved.
+Specifically, it will check the text for the first letter of my name, then push (add) the number of characters equal to my name's length to an array. By inspecting the array, you'll be able to see if my name was mentioned.
